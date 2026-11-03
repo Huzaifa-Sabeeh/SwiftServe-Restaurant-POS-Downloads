@@ -1,27 +1,44 @@
-# SwiftServe Restaurant POS Software
+<div align="center">
+  <h1>🍽️ SwiftServe Restaurant POS</h1>
+  <p><strong>Keep service moving—even when the internet is down.</strong></p>
+  <p>Point-of-sale software for restaurants, cafes, and takeaway counters.</p>
+  <p><strong>For Windows 10 and Windows 11 (64-bit)</strong></p>
+  <p>
+    <a href="https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe"><strong>⬇️ Download Setup</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe"><strong>🔄 Download Update</strong></a>
+  </p>
+  <p>
+    <a href="https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php">Explore features and plans</a>
+    &nbsp; · &nbsp;
+    <a href="https://mitsoftsolutions.com/">Created by MIT Soft Solutions</a>
+  </p>
+</div>
 
-SwiftServe is point-of-sale software for restaurants, cafes, and takeaway counters. Take orders, manage payments, and send tickets to the kitchen from a Windows computer. SwiftServe is designed to keep working when your internet connection is unavailable.
+---
 
-**For Windows 10 or Windows 11 (64-bit).** Choose the download that matches your situation:
+## Made for busy restaurant service
 
-## Download SwiftServe
+| **⚡ Stay ready** | **🍽️ Serve your way** |
+|---|---|
+| Take orders and process sales on your computer, even when your internet connection is unavailable. | Manage dine-in tables, takeaway orders, and home delivery from one POS. |
+| **👩‍🍳 Keep the team in sync** | **💳 Make checkout simple** |
+| Connect multiple counters over your local restaurant network and send kitchen tickets to thermal printers. | Take cash, card, and digital payments; split a bill between payment types. |
+| **📦 Manage your menu** | **📊 Stay on top of each day** |
+| Sell combo deals and track ingredient stock as items are sold. | Review sales and shifts, and back up your restaurant data. |
 
-- **[Download SwiftServe Setup](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe)** — install SwiftServe on a computer for the first time.
-- **[Download SwiftServe Update](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe)** — update an existing SwiftServe installation.
-- [See all releases](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases) to find previous versions.
+### Works with familiar restaurant equipment
 
-## Features for your restaurant
+Use touchscreens, keyboards, and barcode scanners, and connect supported 58 mm or 80 mm thermal printers.
 
-- **Keep serving offline:** Take orders and process sales on your computer without relying on an internet connection.
-- **Serve every order type:** Manage dine-in tables, takeaway orders, and delivery from one POS.
-- **Keep counters and kitchen in sync:** Connect multiple counters over your local restaurant network and route kitchen order tickets to thermal printers.
-- **Make checkout easier:** Accept cash, cards, and digital payments; split a bill between payment types; and open a supported cash drawer when taking cash.
-- **Manage your menu and stock:** Sell combo deals and track ingredient inventory as items are sold.
-- **Track daily operations:** Review sales and shifts, and back up your restaurant data.
-- **Use familiar equipment:** Work with touchscreens, keyboards, barcode scanners, and supported 58 mm or 80 mm thermal printers.
+## Choose your download
+
+- **New to SwiftServe?** [Download Setup](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe) to install the software.
+- **Already using SwiftServe?** [Download Update](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe) to update your existing installation.
+- Looking for an earlier version? [Browse all releases](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases).
 
 ## Learn more
 
-Visit the [SwiftServe Restaurant POS website](https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php) to explore the software, features, plans, and setup options.
+Visit the [SwiftServe Restaurant POS website](https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php) for product details, features, plans, and setup options.
 
-SwiftServe Restaurant POS is created by [MIT Soft Solutions](https://mitsoftsolutions.com/).
+**SwiftServe Restaurant POS is created by [MIT Soft Solutions](https://mitsoftsolutions.com/).**
