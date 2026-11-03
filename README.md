@@ -1,16 +1,17 @@
-# SwiftServe Restaurant POS for Windows
+# SwiftServe Restaurant POS Software
 
-Download the official SwiftServe Restaurant POS Windows installers. The release packages are published separately from the application source repository.
+SwiftServe is restaurant point-of-sale software for restaurants, cafes, and takeaway counters. It helps staff take orders, process payments, and send tickets to the kitchen. SwiftServe is designed to keep working when the internet connection is unavailable.
 
-## Download
+**For Windows 10 or Windows 11 (64-bit).** Choose the download that matches your situation:
 
-Open the [latest SwiftServe Restaurant POS release](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest) and download the installer that matches your situation:
+## Download SwiftServe
 
-- **SwiftServe.Setup.exe** — full installer for a new Windows 64-bit (x64) installation.
-- **SwiftServe.Update.exe** — update package for an existing SwiftServe Restaurant POS installation.
+- **[Download SwiftServe Setup](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe)** — for a new installation.
+- **[Download SwiftServe Update](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe)** — to update an existing SwiftServe installation.
+- [See all releases](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases) to view previous versions.
 
-The current release is **v2.0.7**. Release downloads are attached as GitHub release assets; the installer binaries are not stored in Git history.
+## Learn more
 
-## Official source
+Visit the [SwiftServe Restaurant POS website](https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php) to explore its features, plans, and setup options.
 
-This repository is for SwiftServe Restaurant POS downloads only. See the [release history](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases) for available versions and package notes.
+SwiftServe Restaurant POS is created by [MIT Soft Solutions](https://mitsoftsolutions.com/).
