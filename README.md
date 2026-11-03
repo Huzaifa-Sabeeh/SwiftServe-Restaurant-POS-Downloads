@@ -1,19 +1,14 @@
-<div align="center">
-  <h1>🍽️ SwiftServe Restaurant POS</h1>
-  <p><strong>Keep service moving—even when the internet is down.</strong></p>
-  <p>Point-of-sale software for restaurants, cafes, and takeaway counters.</p>
-  <p><strong>For Windows 10 and Windows 11 (64-bit)</strong></p>
-  <p>
-    <a href="https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe"><strong>⬇️ Download Setup</strong></a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe"><strong>🔄 Download Update</strong></a>
-  </p>
-  <p>
-    <a href="https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php">Explore features and plans</a>
-    &nbsp; · &nbsp;
-    <a href="https://mitsoftsolutions.com/">Created by MIT Soft Solutions</a>
-  </p>
-</div>
+# 🍽️ SwiftServe Restaurant POS
+
+> **Keep service moving—even when the internet is down.**
+
+Point-of-sale software for restaurants, cafes, and takeaway counters.
+
+**For Windows 10 and Windows 11 (64-bit)**
+
+**[⬇️ Download Setup](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Setup.exe)** · **[🔄 Download Update](https://github.com/Huzaifa-Sabeeh/SwiftServe-Restaurant-POS-Downloads/releases/latest/download/SwiftServe.Update.exe)**
+
+[Explore features and plans](https://pos.mitsoftsolutions.com/pages/swiftserve_landing.php) · Created by [MIT Soft Solutions](https://mitsoftsolutions.com/)
 
 ---
 
